@@ -1,6 +1,8 @@
 # Python Class
+## Sep 10, 2016 Updated
 
 ##Contact list
+
 Name | Email 
 ---|---
 Weiwei Lin | wlin114@outlook.com
