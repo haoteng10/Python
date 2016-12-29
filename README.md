@@ -22,7 +22,10 @@ Jerry Yi | Jerryyi123@hotmail.com
 
 [Class 2 Homework][3]
 
+[Input list (py)][4]
+
 
 [1]:https://github.com/IT-Prep/Python/blob/master/Class1.py
 [2]:https://github.com/IT-Prep/Python/blob/master/Class1.MD
 [3]:https://github.com/IT-Prep/Python/blob/master/Class2.MD
+[4]:https://github.com/haoteng10/Python/blob/master/input_list.py
